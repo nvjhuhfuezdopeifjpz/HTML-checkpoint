@@ -1,0 +1,36 @@
+div{
+    text-align: center;
+    padding: 25px;
+    margin: 10px;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 90px;
+}
+
+img{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+
+}
+p{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.box{
+    border: 3px solid darkblue;
+    border-radius: 5px;
+
+
+}
